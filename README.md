@@ -1,27 +1,11 @@
-﻿||
-| :- |
 
-|<p><a name="_hlk142175196"></a>                                   **EN1190** </p><p>**Engineering Design Project**</p><p>**Project Progress Report**</p><p></p><p>![A computer with a blue light on
-
-Description automatically generated]</p><p></p><p></p><p></p><p>**AQUALERT** </p><p>Personal Hydration Assistant</p><p>                                           </p><p>       </p><p>AUGUST 5, 2023</p><p>![text divider](Aspose.Words.be8777fe-dfb0-4368-ae32-3bad04579b88.002.png)</p><p></p><p></p><p>**TEAM TITANFORGE <br>Hewagamage K.L.N. 2100222X<br>Abeywardana K.D.W. 210014J<br>Edirisinghe E.A.D.D. 210153H<br>Abeysinghe D.U. 210011X**</p><p></p>|
-| :- |
-![](Aspose.Words.be8777fe-dfb0-4368-ae32-3bad04579b88.003.png)![colored rectangle](Aspose.Words.be8777fe-dfb0-4368-ae32-3bad04579b88.004.png)**
-# **DEHYDRATION**
-
-|<p><h2>THE PROBLEM</h2></p><p></p><p>Dehydration is a common problem in office environments, and it can happen for a variety of reasons. The low physical activity level, dry air, caffeine intake, and lack of access to water are some of the main factors that contribute to dehydration in the workplace.</p><p>When employees are dehydrated, it can lead to a range of negative effects, including fatigue, headaches, and reduced physical performance, all of which can impact productivity. </p><p>Therefore, it's important for employees to be aware of the risks of dehydration and to take steps to stay hydrated throughout the day.</p><p></p><p>***Through a survey that we did via Google Forms with over 100 responses, we found out that more than 60% of employees are not confident that they remain hydrated at work.***</p><p></p>|
-| :- |
-***We further found out that 80% of employees consume less than 1litre of water while at work.***
-
-This led us arrive at the conclusion that most of the employees who work in office environments do not remain hydrated at work and are unaware about the possibility that dehydration may be reducing their productivity.
 # **AQUALERT**
-## THE SOLUTION
-Our team set out to design a product that would solve the problem of workplace dehydration while having the ability to integrated to the existing workspaces of office environments. We wanted to create a solution so that our users will have the luxury of using their own personal water bottles while still keeping track of their water intake.
 
 AQUALERT is a compact electronic device which can accommodate any type of water bottle. The device will act as a platform for the bottle of the user to be kept on. It will take readings of the amount of water consumed by the user and offer reminders if the user forgets to drink the required amount of water inside a defined period of time.
 # **PRODUCT BREAKDOWN**
 ## SYSTEM ARCHITECTURE 
+<img src="Images/Aspose.Words.be8777fe-dfb0-4368-ae32-3bad04579b88.005.png" id="fig:example" style="width:15cm" 
 
-![](Aspose.Words.be8777fe-dfb0-4368-ae32-3bad04579b88.005.png)
 
 ## **POWER SUPPLY**
 The power supply consists of TP4056 Lithium Battery Charging Module, which gets it power from USB input, a 1800mAh Li- ion battery and MT3608 DC-DC Step Up Boost convertor.
