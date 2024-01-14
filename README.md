@@ -1,5 +1,6 @@
 
 # **AQUALERT**
+<img src="Images/Aspose.Words.be8777fe-dfb0-4368-ae32-3bad04579b88.015.jpeg" id="fig:example" style="width:15cm"> 
 
 AQUALERT is a compact electronic device which can accommodate any type of water bottle. The device will act as a platform for the bottle of the user to be kept on. It will take readings of the amount of water consumed by the user and offer reminders if the user forgets to drink the required amount of water inside a defined period of time.
 # **PRODUCT BREAKDOWN**
@@ -124,58 +125,7 @@ Aqualert products will be distributed through a network of retailers and partner
 
 
 
-**BILL OF QUANTITIES**
 
-`   `**Expenses for the items used so far**
-
-|Item|Qty|Price **(**Rs)|
-| :- | :- | :- |
-||||
-|**28 Pin DIP-28 SIP Round IC Sockets**|1|8\.00|
-|**ATMEGA328-PU CHIP**|1|640\.00|
-|**16MHz Oscillator quartz resonator**|1|14\.00|
-|**10K resistor**|1|1\.00|
-|**Blue LED 3mm**|10|10\.00|
-|**Tactical Push button**|4|20\.00|
-|**Switch**|2|40\.00|
-|**0.1uF capacitor**|2|4\.00|
-|**22pF capacitor**|2|4\.00|
-|**Load cell 5kg**|2|4\.00|
-|**HX711 A/D converter amplifier**|1|140\.00|
-|**128x32 I2C OLED screen**|1|360\.00|
-|**220Ohm resistor**|1|1\.00|
-|**BC547 Transistor**|1|2\.00|
-|**Diode 1N4001**|1|2\.00|
-|**4.7K resistor**|4|4\.00|
-|**Long 4-way PCB Mount Wire Clip**|3|120\.00|
-|**Long 2-Way PCB Mount Wire Clip**|2|40\.00|
-|**Enclosure 3D printing** |1|2500\.00|
-|<p>**PCB** </p><p>**3.7V 1800mA Li-ion Rechargeable Battery**</p><p>**MT3608 DC-DC Boost Convertor**</p><p>**TP4056 Lithium Battery Charging Module**</p>|<p>1</p><p>1</p><p>1</p><p>1</p>|<p>`  `350.00</p><p>`  `600.00</p><p>` `280.00</p><p>` `160.00</p>|
-|Total||**5304.00**|
-
-
-**THE TEAM**
-
-` `Task Delegation.
-
-**Hewagamage K.L.N.**
-
-- Coding and Soldering
-
-**Abeywardana K.D.W.**
-
-- Code debugging
-
-**Edirisinghe E.A.D.D**
-
-- PCB design and assembly
-
-**Abeysinghe D.U.**
-
-- Enclosure design
-1**
-
-[A computer with a blue light on
 
 Description automatically generated]: Aspose.Words.be8777fe-dfb0-4368-ae32-3bad04579b88.001.jpeg
 [A square device with a circular design
