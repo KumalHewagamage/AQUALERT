@@ -1,6 +1,6 @@
 
 # **AQUALERT**
-<img src="Images/Aspose.Words.be8777fe-dfb0-4368-ae32-3bad04579b88.015.jpeg" id="fig:example" style="width:25cm"> 
+<img src="Images/Aspose.Words.be8777fe-dfb0-4368-ae32-3bad04579b88.015.jpeg" id="fig:example" style="width:20cm"> 
 
 AQUALERT is a compact electronic device which can accommodate any type of water bottle. The device will act as a platform for the bottle of the user to be kept on. It will take readings of the amount of water consumed by the user and offer reminders if the user forgets to drink the required amount of water inside a defined period of time.
 # **PRODUCT BREAKDOWN**
